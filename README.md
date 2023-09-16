@@ -18,6 +18,7 @@
 - :seedling: I Learn Among us modding from ohters mods.
 
 - :zap: In my free time, I make mods and decompling some games
+- Discord : jeanamongus
 
 ---
 
@@ -32,6 +33,4 @@
 
 ---
 ### :fire: My Stats :
-![JeanAU GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanAU&show_icons=true&theme=gradient)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAU&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![JeanAU GitHub stats](https://stats-one-kohl.vercel.app/api?username=jeanau&theme=midnight-purple&count_private=true&show_icons=true)
